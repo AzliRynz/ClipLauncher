@@ -43,6 +43,8 @@
     <attr name="notificationDotColor" format="color" />
     <attr name="focusOutlineColor" format="color" />
     <attr name="focusInnerOutlineColor" format="color" />
+    <attr name="disabledIconAlpha" format="float"/>
+    <attr name="loadingIconColor" format="color"/>
 
 
     <attr name="pageIndicatorDotColor" format="color" />
